@@ -1,2 +1,2 @@
 # odin-eas
-Etch-a-Sketch project
+Etch-a-Sketch project from TheOdinProject curriculum
